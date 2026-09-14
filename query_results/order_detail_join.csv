@@ -1,0 +1,151 @@
+ORDER_ID,ORDER_DATE,CUSTOMER_ID,CUSTOMER_NAME,EMAIL,PROVINCE,PRODUCT_ID,PRODUCT_NAME,CATEGORY,UNIT_PRICE,QUANTITY,TOTAL_AMOUNT
+O0001,2026-07-26,C016,Naledi Ndlovu,naledi.ndlovu16@example.com,Free State,P016,Shampoo,Beauty,623.66,4,2494.64
+O0002,2026-01-25,C013,Zanele Mbeki,zanele.mbeki13@example.com,Mpumalanga,P004,USB-C Cable,Electronics,151.71,4,606.84
+O0003,2026-04-16,C023,Pieter Coetzee,pieter.coetzee23@example.com,Gauteng,P014,Sunglasses,Fashion,655.85,4,2623.40
+O0004,2026-06-22,C047,Johan Mahlangu,johan.mahlangu47@example.com,North West,P002,Wireless Earbuds,Electronics,585.66,1,585.66
+O0005,2026-07-06,C004,Thabo Van der Merwe,thabo.van.der.merwe4@example.com,Eastern Cape,P013,Backpack,Fashion,450.08,3,1350.24
+O0006,2026-02-19,C007,Naledi Naidoo,naledi.naidoo7@example.com,Free State,P008,Desk Lamp,Home,88.05,2,176.10
+O0007,2026-02-05,C035,Ayanda Coetzee,ayanda.coetzee35@example.com,Gauteng,P015,Cap,Fashion,391.89,4,1567.56
+O0008,2026-04-29,C012,Aisha Fourie,aisha.fourie12@example.com,North West,P009,Storage Box,Home,872.78,2,1745.56
+O0009,2026-07-26,C005,Michael Els,michael.els5@example.com,Gauteng,P015,Cap,Fashion,391.89,5,1959.45
+O0010,2026-06-16,C007,Naledi Naidoo,naledi.naidoo7@example.com,Free State,P002,Wireless Earbuds,Electronics,585.66,5,2928.30
+O0011,2026-08-26,C001,Zanele Nkosi,zanele.nkosi1@example.com,Free State,P003,Power Bank,Electronics,357.65,2,715.30
+O0012,2026-05-05,C011,Nomvula Coetzee,nomvula.coetzee11@example.com,Limpopo,P014,Sunglasses,Fashion,655.85,4,2623.40
+O0013,2026-08-20,C014,Ayanda Mokoena,ayanda.mokoena14@example.com,Limpopo,P013,Backpack,Fashion,450.08,1,450.08
+O0014,2026-01-01,C011,Nomvula Coetzee,nomvula.coetzee11@example.com,Limpopo,P013,Backpack,Fashion,450.08,4,1800.32
+O0015,2026-03-15,C017,Naledi Coetzee,naledi.coetzee17@example.com,Western Cape,P015,Cap,Fashion,391.89,4,1567.56
+O0016,2026-06-19,C045,Grace Van der Merwe,grace.van.der.merwe45@example.com,Western Cape,P018,Perfume,Beauty,890.15,4,3560.60
+O0017,2026-03-17,C010,Zanele Van der Merwe,zanele.van.der.merwe10@example.com,Mpumalanga,P007,Throw Blanket,Home,739.05,2,1478.10
+O0018,2026-07-08,C004,Thabo Van der Merwe,thabo.van.der.merwe4@example.com,Eastern Cape,P019,Lip Balm,Beauty,1068.27,5,5341.35
+O0019,2026-01-15,C004,Thabo Van der Merwe,thabo.van.der.merwe4@example.com,Eastern Cape,P011,Sneakers,Fashion,155.49,1,155.49
+O0020,2026-05-09,C038,Chloe Nkosi,chloe.nkosi38@example.com,Free State,P016,Shampoo,Beauty,623.66,5,3118.30
+O0021,2026-09-03,C011,Nomvula Coetzee,nomvula.coetzee11@example.com,Limpopo,P002,Wireless Earbuds,Electronics,585.66,5,2928.30
+O0022,2026-01-18,C006,David Fourie,david.fourie6@example.com,Northern Cape,P006,Coffee Mug,Home,700.39,5,3501.95
+O0023,2026-04-14,C005,Michael Els,michael.els5@example.com,Gauteng,P008,Desk Lamp,Home,88.05,1,88.05
+O0024,2026-05-29,C037,Zanele Mokoena,zanele.mokoena37@example.com,Mpumalanga,P008,Desk Lamp,Home,88.05,5,440.25
+O0025,2026-01-21,C003,Sipho Els,sipho.els3@example.com,Mpumalanga,P020,Face Mask,Beauty,725.36,4,2901.44
+O0026,2026-05-25,C043,Karabo Nkosi,karabo.nkosi43@example.com,Western Cape,P019,Lip Balm,Beauty,1068.27,5,5341.35
+O0027,2026-02-22,C021,Naledi Dlamini,naledi.dlamini21@example.com,North West,P009,Storage Box,Home,872.78,3,2618.34
+O0028,2026-04-12,C016,Naledi Ndlovu,naledi.ndlovu16@example.com,Free State,P009,Storage Box,Home,872.78,2,1745.56
+O0029,2026-04-28,C043,Karabo Nkosi,karabo.nkosi43@example.com,Western Cape,P010,Kitchen Scale,Home,145.94,3,437.82
+O0030,2026-01-03,C049,David Mbeki,david.mbeki49@example.com,Northern Cape,P003,Power Bank,Electronics,357.65,4,1430.60
+O0031,2026-01-26,C040,Michael Els,michael.els40@example.com,Eastern Cape,P019,Lip Balm,Beauty,1068.27,1,1068.27
+O0032,2026-05-10,C035,Ayanda Coetzee,ayanda.coetzee35@example.com,Gauteng,P007,Throw Blanket,Home,739.05,3,2217.15
+O0033,2026-08-14,C009,Kagiso Dlamini,kagiso.dlamini9@example.com,Eastern Cape,P012,Denim Jacket,Fashion,115.18,1,115.18
+O0034,2026-03-14,C016,Naledi Ndlovu,naledi.ndlovu16@example.com,Free State,P012,Denim Jacket,Fashion,115.18,2,230.36
+O0035,2026-06-30,C029,Kagiso Fourie,kagiso.fourie29@example.com,Mpumalanga,P018,Perfume,Beauty,890.15,3,2670.45
+O0036,2026-01-03,C040,Michael Els,michael.els40@example.com,Eastern Cape,P017,Moisturizer,Beauty,683.94,5,3419.70
+O0037,2026-08-29,C020,Sipho Els,sipho.els20@example.com,KwaZulu-Natal,P004,USB-C Cable,Electronics,151.71,2,303.42
+O0038,2026-08-16,C017,Naledi Coetzee,naledi.coetzee17@example.com,Western Cape,P004,USB-C Cable,Electronics,151.71,1,151.71
+O0039,2026-02-09,C048,Lerato Mokoena,lerato.mokoena48@example.com,Northern Cape,P018,Perfume,Beauty,890.15,3,2670.45
+O0040,2026-02-23,C019,Nomvula Pretorius,nomvula.pretorius19@example.com,Eastern Cape,P020,Face Mask,Beauty,725.36,3,2176.08
+O0041,2026-05-10,C014,Ayanda Mokoena,ayanda.mokoena14@example.com,Limpopo,P009,Storage Box,Home,872.78,4,3491.12
+O0042,2026-01-24,C017,Naledi Coetzee,naledi.coetzee17@example.com,Western Cape,P002,Wireless Earbuds,Electronics,585.66,4,2342.64
+O0043,2026-01-01,C018,Kagiso Naidoo,kagiso.naidoo18@example.com,Limpopo,P002,Wireless Earbuds,Electronics,585.66,3,1756.98
+O0044,2026-06-13,C050,Fatima Sithole,fatima.sithole50@example.com,Limpopo,P005,Smart Watch,Electronics,103.56,3,310.68
+O0045,2026-05-22,C011,Nomvula Coetzee,nomvula.coetzee11@example.com,Limpopo,P015,Cap,Fashion,391.89,4,1567.56
+O0046,2026-01-29,C036,Ayanda Ndlovu,ayanda.ndlovu36@example.com,Free State,P001,Bluetooth Speaker,Electronics,1087.57,1,1087.57
+O0047,2026-05-20,C045,Grace Van der Merwe,grace.van.der.merwe45@example.com,Western Cape,P005,Smart Watch,Electronics,103.56,1,103.56
+O0048,2026-05-22,C024,Aisha Ndlovu,aisha.ndlovu24@example.com,Limpopo,P019,Lip Balm,Beauty,1068.27,2,2136.54
+O0049,2026-01-11,C028,Naledi Fourie,naledi.fourie28@example.com,Northern Cape,P005,Smart Watch,Electronics,103.56,3,310.68
+O0050,2026-08-19,C024,Aisha Ndlovu,aisha.ndlovu24@example.com,Limpopo,P002,Wireless Earbuds,Electronics,585.66,3,1756.98
+O0051,2026-06-20,C014,Ayanda Mokoena,ayanda.mokoena14@example.com,Limpopo,P008,Desk Lamp,Home,88.05,1,88.05
+O0052,2026-08-15,C023,Pieter Coetzee,pieter.coetzee23@example.com,Gauteng,P018,Perfume,Beauty,890.15,4,3560.60
+O0053,2026-08-25,C040,Michael Els,michael.els40@example.com,Eastern Cape,P005,Smart Watch,Electronics,103.56,2,207.12
+O0054,2026-08-14,C011,Nomvula Coetzee,nomvula.coetzee11@example.com,Limpopo,P006,Coffee Mug,Home,700.39,4,2801.56
+O0055,2026-07-08,C002,Naledi Dlamini,naledi.dlamini2@example.com,Western Cape,P006,Coffee Mug,Home,700.39,3,2101.17
+O0056,2026-03-10,C027,Chloe Dlamini,chloe.dlamini27@example.com,Free State,P008,Desk Lamp,Home,88.05,2,176.10
+O0057,2026-04-08,C045,Grace Van der Merwe,grace.van.der.merwe45@example.com,Western Cape,P004,USB-C Cable,Electronics,151.71,1,151.71
+O0058,2026-02-21,C031,Michael Naidoo,michael.naidoo31@example.com,Western Cape,P008,Desk Lamp,Home,88.05,4,352.20
+O0059,2026-07-30,C023,Pieter Coetzee,pieter.coetzee23@example.com,Gauteng,P010,Kitchen Scale,Home,145.94,2,291.88
+O0060,2026-06-18,C015,David Fourie,david.fourie15@example.com,Western Cape,P001,Bluetooth Speaker,Electronics,1087.57,2,2175.14
+O0061,2026-03-13,C026,Pieter Botha,pieter.botha26@example.com,North West,P011,Sneakers,Fashion,155.49,1,155.49
+O0062,2026-03-31,C050,Fatima Sithole,fatima.sithole50@example.com,Limpopo,P009,Storage Box,Home,872.78,5,4363.90
+O0063,2026-03-26,C026,Pieter Botha,pieter.botha26@example.com,North West,P018,Perfume,Beauty,890.15,1,890.15
+O0064,2026-02-15,C008,Lerato Fourie,lerato.fourie8@example.com,Mpumalanga,P009,Storage Box,Home,872.78,5,4363.90
+O0065,2026-01-28,C017,Naledi Coetzee,naledi.coetzee17@example.com,Western Cape,P002,Wireless Earbuds,Electronics,585.66,5,2928.30
+O0066,2026-07-06,C028,Naledi Fourie,naledi.fourie28@example.com,Northern Cape,P012,Denim Jacket,Fashion,115.18,3,345.54
+O0067,2026-05-11,C028,Naledi Fourie,naledi.fourie28@example.com,Northern Cape,P020,Face Mask,Beauty,725.36,1,725.36
+O0068,2026-02-18,C025,Kagiso Van der Merwe,kagiso.van.der.merwe25@example.com,Eastern Cape,P019,Lip Balm,Beauty,1068.27,3,3204.81
+O0069,2026-01-01,C003,Sipho Els,sipho.els3@example.com,Mpumalanga,P014,Sunglasses,Fashion,655.85,5,3279.25
+O0070,2026-04-04,C035,Ayanda Coetzee,ayanda.coetzee35@example.com,Gauteng,P007,Throw Blanket,Home,739.05,4,2956.20
+O0071,2026-06-09,C005,Michael Els,michael.els5@example.com,Gauteng,P011,Sneakers,Fashion,155.49,3,466.47
+O0072,2026-07-04,C043,Karabo Nkosi,karabo.nkosi43@example.com,Western Cape,P004,USB-C Cable,Electronics,151.71,3,455.13
+O0073,2026-06-20,C033,Sam Van der Merwe,sam.van.der.merwe33@example.com,Mpumalanga,P010,Kitchen Scale,Home,145.94,4,583.76
+O0074,2026-06-28,C021,Naledi Dlamini,naledi.dlamini21@example.com,North West,P013,Backpack,Fashion,450.08,3,1350.24
+O0075,2026-02-19,C036,Ayanda Ndlovu,ayanda.ndlovu36@example.com,Free State,P005,Smart Watch,Electronics,103.56,4,414.24
+O0076,2026-06-23,C043,Karabo Nkosi,karabo.nkosi43@example.com,Western Cape,P013,Backpack,Fashion,450.08,2,900.16
+O0077,2026-03-19,C040,Michael Els,michael.els40@example.com,Eastern Cape,P019,Lip Balm,Beauty,1068.27,4,4273.08
+O0078,2026-03-19,C036,Ayanda Ndlovu,ayanda.ndlovu36@example.com,Free State,P001,Bluetooth Speaker,Electronics,1087.57,3,3262.71
+O0079,2026-07-21,C014,Ayanda Mokoena,ayanda.mokoena14@example.com,Limpopo,P014,Sunglasses,Fashion,655.85,5,3279.25
+O0080,2026-04-30,C039,Lerato Khumalo,lerato.khumalo39@example.com,Western Cape,P011,Sneakers,Fashion,155.49,4,621.96
+O0081,2026-05-11,C029,Kagiso Fourie,kagiso.fourie29@example.com,Mpumalanga,P007,Throw Blanket,Home,739.05,4,2956.20
+O0082,2026-06-18,C048,Lerato Mokoena,lerato.mokoena48@example.com,Northern Cape,P006,Coffee Mug,Home,700.39,1,700.39
+O0083,2026-06-19,C019,Nomvula Pretorius,nomvula.pretorius19@example.com,Eastern Cape,P017,Moisturizer,Beauty,683.94,5,3419.70
+O0084,2026-07-29,C022,Kagiso Mbeki,kagiso.mbeki22@example.com,Northern Cape,P003,Power Bank,Electronics,357.65,2,715.30
+O0085,2026-02-27,C044,Fatima Botha,fatima.botha44@example.com,Gauteng,P010,Kitchen Scale,Home,145.94,2,291.88
+O0086,2026-01-12,C010,Zanele Van der Merwe,zanele.van.der.merwe10@example.com,Mpumalanga,P001,Bluetooth Speaker,Electronics,1087.57,2,2175.14
+O0087,2026-08-06,C031,Michael Naidoo,michael.naidoo31@example.com,Western Cape,P020,Face Mask,Beauty,725.36,1,725.36
+O0088,2026-08-15,C030,Sarah Pretorius,sarah.pretorius30@example.com,Eastern Cape,P014,Sunglasses,Fashion,655.85,5,3279.25
+O0089,2026-05-07,C013,Zanele Mbeki,zanele.mbeki13@example.com,Mpumalanga,P013,Backpack,Fashion,450.08,4,1800.32
+O0090,2026-06-17,C016,Naledi Ndlovu,naledi.ndlovu16@example.com,Free State,P005,Smart Watch,Electronics,103.56,1,103.56
+O0091,2026-07-19,C049,David Mbeki,david.mbeki49@example.com,Northern Cape,P004,USB-C Cable,Electronics,151.71,4,606.84
+O0092,2026-07-25,C015,David Fourie,david.fourie15@example.com,Western Cape,P006,Coffee Mug,Home,700.39,5,3501.95
+O0093,2026-05-23,C030,Sarah Pretorius,sarah.pretorius30@example.com,Eastern Cape,P002,Wireless Earbuds,Electronics,585.66,2,1171.32
+O0094,2026-02-04,C008,Lerato Fourie,lerato.fourie8@example.com,Mpumalanga,P015,Cap,Fashion,391.89,4,1567.56
+O0095,2026-05-24,C043,Karabo Nkosi,karabo.nkosi43@example.com,Western Cape,P017,Moisturizer,Beauty,683.94,5,3419.70
+O0096,2026-06-06,C021,Naledi Dlamini,naledi.dlamini21@example.com,North West,P015,Cap,Fashion,391.89,5,1959.45
+O0097,2026-04-25,C028,Naledi Fourie,naledi.fourie28@example.com,Northern Cape,P018,Perfume,Beauty,890.15,2,1780.30
+O0098,2026-04-26,C048,Lerato Mokoena,lerato.mokoena48@example.com,Northern Cape,P016,Shampoo,Beauty,623.66,3,1870.98
+O0099,2026-08-04,C049,David Mbeki,david.mbeki49@example.com,Northern Cape,P008,Desk Lamp,Home,88.05,3,264.15
+O0100,2026-05-05,C050,Fatima Sithole,fatima.sithole50@example.com,Limpopo,P017,Moisturizer,Beauty,683.94,2,1367.88
+O0101,2026-01-20,C018,Kagiso Naidoo,kagiso.naidoo18@example.com,Limpopo,P015,Cap,Fashion,391.89,3,1175.67
+O0102,2026-03-27,C016,Naledi Ndlovu,naledi.ndlovu16@example.com,Free State,P009,Storage Box,Home,872.78,3,2618.34
+O0103,2026-02-05,C035,Ayanda Coetzee,ayanda.coetzee35@example.com,Gauteng,P003,Power Bank,Electronics,357.65,2,715.30
+O0104,2026-06-27,C015,David Fourie,david.fourie15@example.com,Western Cape,P013,Backpack,Fashion,450.08,2,900.16
+O0105,2026-01-17,C046,Sipho Ndlovu,sipho.ndlovu46@example.com,Northern Cape,P007,Throw Blanket,Home,739.05,4,2956.20
+O0106,2026-05-19,C027,Chloe Dlamini,chloe.dlamini27@example.com,Free State,P011,Sneakers,Fashion,155.49,4,621.96
+O0107,2026-02-22,C027,Chloe Dlamini,chloe.dlamini27@example.com,Free State,P002,Wireless Earbuds,Electronics,585.66,4,2342.64
+O0108,2026-08-31,C025,Kagiso Van der Merwe,kagiso.van.der.merwe25@example.com,Eastern Cape,P019,Lip Balm,Beauty,1068.27,1,1068.27
+O0109,2026-04-08,C049,David Mbeki,david.mbeki49@example.com,Northern Cape,P019,Lip Balm,Beauty,1068.27,4,4273.08
+O0110,2026-03-18,C001,Zanele Nkosi,zanele.nkosi1@example.com,Free State,P012,Denim Jacket,Fashion,115.18,4,460.72
+O0111,2026-07-11,C027,Chloe Dlamini,chloe.dlamini27@example.com,Free State,P018,Perfume,Beauty,890.15,5,4450.75
+O0112,2026-05-05,C039,Lerato Khumalo,lerato.khumalo39@example.com,Western Cape,P008,Desk Lamp,Home,88.05,2,176.10
+O0113,2026-05-05,C018,Kagiso Naidoo,kagiso.naidoo18@example.com,Limpopo,P014,Sunglasses,Fashion,655.85,1,655.85
+O0114,2026-06-21,C025,Kagiso Van der Merwe,kagiso.van.der.merwe25@example.com,Eastern Cape,P011,Sneakers,Fashion,155.49,4,621.96
+O0115,2026-08-04,C047,Johan Mahlangu,johan.mahlangu47@example.com,North West,P006,Coffee Mug,Home,700.39,4,2801.56
+O0116,2026-05-17,C009,Kagiso Dlamini,kagiso.dlamini9@example.com,Eastern Cape,P020,Face Mask,Beauty,725.36,1,725.36
+O0117,2026-05-25,C026,Pieter Botha,pieter.botha26@example.com,North West,P019,Lip Balm,Beauty,1068.27,1,1068.27
+O0118,2026-02-04,C006,David Fourie,david.fourie6@example.com,Northern Cape,P014,Sunglasses,Fashion,655.85,4,2623.40
+O0119,2026-03-08,C012,Aisha Fourie,aisha.fourie12@example.com,North West,P002,Wireless Earbuds,Electronics,585.66,4,2342.64
+O0120,2026-04-27,C021,Naledi Dlamini,naledi.dlamini21@example.com,North West,P007,Throw Blanket,Home,739.05,3,2217.15
+O0121,2026-03-13,C022,Kagiso Mbeki,kagiso.mbeki22@example.com,Northern Cape,P013,Backpack,Fashion,450.08,4,1800.32
+O0122,2026-05-01,C017,Naledi Coetzee,naledi.coetzee17@example.com,Western Cape,P003,Power Bank,Electronics,357.65,1,357.65
+O0123,2026-01-14,C048,Lerato Mokoena,lerato.mokoena48@example.com,Northern Cape,P018,Perfume,Beauty,890.15,3,2670.45
+O0124,2026-07-19,C015,David Fourie,david.fourie15@example.com,Western Cape,P003,Power Bank,Electronics,357.65,1,357.65
+O0125,2026-09-01,C049,David Mbeki,david.mbeki49@example.com,Northern Cape,P001,Bluetooth Speaker,Electronics,1087.57,2,2175.14
+O0126,2026-06-09,C013,Zanele Mbeki,zanele.mbeki13@example.com,Mpumalanga,P001,Bluetooth Speaker,Electronics,1087.57,2,2175.14
+O0127,2026-05-02,C016,Naledi Ndlovu,naledi.ndlovu16@example.com,Free State,P005,Smart Watch,Electronics,103.56,1,103.56
+O0128,2026-04-30,C037,Zanele Mokoena,zanele.mokoena37@example.com,Mpumalanga,P007,Throw Blanket,Home,739.05,3,2217.15
+O0129,2026-02-12,C050,Fatima Sithole,fatima.sithole50@example.com,Limpopo,P012,Denim Jacket,Fashion,115.18,5,575.90
+O0130,2026-07-19,C039,Lerato Khumalo,lerato.khumalo39@example.com,Western Cape,P004,USB-C Cable,Electronics,151.71,2,303.42
+O0131,2026-05-29,C020,Sipho Els,sipho.els20@example.com,KwaZulu-Natal,P004,USB-C Cable,Electronics,151.71,1,151.71
+O0132,2026-06-23,C020,Sipho Els,sipho.els20@example.com,KwaZulu-Natal,P019,Lip Balm,Beauty,1068.27,4,4273.08
+O0133,2026-01-20,C026,Pieter Botha,pieter.botha26@example.com,North West,P007,Throw Blanket,Home,739.05,5,3695.25
+O0134,2026-01-27,C045,Grace Van der Merwe,grace.van.der.merwe45@example.com,Western Cape,P008,Desk Lamp,Home,88.05,3,264.15
+O0135,2026-07-26,C044,Fatima Botha,fatima.botha44@example.com,Gauteng,P020,Face Mask,Beauty,725.36,1,725.36
+O0136,2026-03-30,C037,Zanele Mokoena,zanele.mokoena37@example.com,Mpumalanga,P002,Wireless Earbuds,Electronics,585.66,5,2928.30
+O0137,2026-01-18,C028,Naledi Fourie,naledi.fourie28@example.com,Northern Cape,P012,Denim Jacket,Fashion,115.18,5,575.90
+O0138,2026-01-04,C042,Michael Mbeki,michael.mbeki42@example.com,Gauteng,P011,Sneakers,Fashion,155.49,4,621.96
+O0139,2026-04-21,C032,Zanele Dlamini,zanele.dlamini32@example.com,KwaZulu-Natal,P004,USB-C Cable,Electronics,151.71,3,455.13
+O0140,2026-07-01,C041,Nomvula Ndlovu,nomvula.ndlovu41@example.com,KwaZulu-Natal,P015,Cap,Fashion,391.89,2,783.78
+O0141,2026-07-07,C028,Naledi Fourie,naledi.fourie28@example.com,Northern Cape,P006,Coffee Mug,Home,700.39,5,3501.95
+O0142,2026-06-07,C042,Michael Mbeki,michael.mbeki42@example.com,Gauteng,P009,Storage Box,Home,872.78,5,4363.90
+O0143,2026-04-30,C050,Fatima Sithole,fatima.sithole50@example.com,Limpopo,P016,Shampoo,Beauty,623.66,4,2494.64
+O0144,2026-03-10,C047,Johan Mahlangu,johan.mahlangu47@example.com,North West,P019,Lip Balm,Beauty,1068.27,3,3204.81
+O0145,2026-03-13,C016,Naledi Ndlovu,naledi.ndlovu16@example.com,Free State,P003,Power Bank,Electronics,357.65,4,1430.60
+O0146,2026-05-26,C016,Naledi Ndlovu,naledi.ndlovu16@example.com,Free State,P015,Cap,Fashion,391.89,5,1959.45
+O0147,2026-03-28,C043,Karabo Nkosi,karabo.nkosi43@example.com,Western Cape,P013,Backpack,Fashion,450.08,1,450.08
+O0148,2026-02-16,C032,Zanele Dlamini,zanele.dlamini32@example.com,KwaZulu-Natal,P011,Sneakers,Fashion,155.49,4,621.96
+O0149,2026-07-24,C014,Ayanda Mokoena,ayanda.mokoena14@example.com,Limpopo,P012,Denim Jacket,Fashion,115.18,3,345.54
+O0150,2026-08-14,C022,Kagiso Mbeki,kagiso.mbeki22@example.com,Northern Cape,P009,Storage Box,Home,872.78,5,4363.90
